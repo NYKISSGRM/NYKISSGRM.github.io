@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.nykiss.gram",
+    "sha256_cert_fingerprints": ["7A:7D:38:10:1B:E5:3A:07:66:0F:D8:BD:22:CA:F0:2B:E7:02:52:4D:BF:4C:E1:2D:B3:2E:6A:57:89:8B:AD:8F"]
+  }
+}]
